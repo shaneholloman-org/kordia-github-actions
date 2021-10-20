@@ -1,3 +1,3 @@
-## CICD test for Kordia GitHub Actions
+# Kordia GitHub Actions
 
-Getting the basics working 
+Getting the basics working with CICD using Github actions
